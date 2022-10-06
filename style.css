@@ -9,4 +9,6 @@ img{
 }
 .w4-container {
   position: relative;
+   color: #212121;
+  font-weight: bold;
 }
