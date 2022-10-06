@@ -1,0 +1,12 @@
+.w4-container > img,
+.overlay-text {
+  position: absolute;
+}
+img{
+  float: right;
+  width:190px;
+  height: 150px;
+}
+.w4-container {
+  position: relative;
+}
